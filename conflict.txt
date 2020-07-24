@@ -1,0 +1,2 @@
+
+this is conflict file in master branch line 2 for conflict situation check.
